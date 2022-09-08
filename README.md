@@ -4,4 +4,4 @@
 3 - peso: Number
 4 - altura: Number
 5 - dataDeInternacao: String
-6 - diabético: String
+6 - diabético: boolean
